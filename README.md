@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning B.Tech.(CSE)
 - 💞️ I’m looking to collaborate on ...
 - 📫 my Email : khanadnanpathan186@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: 
+ 
 
 <!---
 Addi071/Addi071 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
