@@ -3,7 +3,7 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin" alt="linkedin" /></a>
-  <a href="mailto:your.email@example.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="gmail" /></a>
+  <a href="mailto:khanadnanpathan186@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="gmail" /></a>
   <a href="https://github.com/Addi071"><img align="center" src="https://img.shields.io/github/followers/Addi071?label=Follow&style=social" /></a>
 </p>
 
