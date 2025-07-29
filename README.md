@@ -14,7 +14,7 @@
 - 🔭 I’m currently working on: **Form Maker**, a dynamic form builder using MERN stack  
 - 🌱 I’m currently learning: `Next.js`, `TypeScript`, `Cloud Deployment`  
 - 💬 Ask me about: `MERN stack`, `MongoDB`, `Express`, `React`, `Node.js`, `DSA`  
-- 📫 How to reach me: your.email@example.com  
+- 📫 How to reach me: khanadnanpathan186@gmail.com 
 - ⚡ Fun fact: I love making tech stuff look simple and smooth 😄  
 
 ---
